@@ -46,3 +46,48 @@
 
   </div>
 </div>
+
+
+
+
+----------------------------------------------------------
+
+
+ 
+### A little more about me..
+
+
+
+```css
+#gregoryann { 
+  position: junior;
+  code: Javascript;
+  tools: React;
+  css: bootstrap;
+  backEnd: php;
+  devOps: AWS;
+  databases: MySql;
+  misc: Firebase;
+  height: 178cm; 
+  display: boy; 
+  background: Tinker Resolver 🔨; 
+  currentProject: "Personal website and this README";
+  funFact: "There are two ways to write error-free programs; only the third one works";
+  color: green;
+}
+```
+
+ 
+### Fun fact   
+
+
+```
+
+// Which came first: the chicken or the egg?
+
+console.log(["🥚", "🐣", "🐥", "🐔"].sort())
+
+>>> ["🐔", "🐣", "🐥", "🥚"];
+
+
+```
