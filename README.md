@@ -33,3 +33,16 @@
 [![MEGA](https://img.shields.io/badge/-MEGA-444444?style=flat&logo=mega&logoColor=D9272E)](https://github.com/meganz/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 [![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
+
+
+
+## &#x1f4c8; GitHub Stats <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2> 
+
+
+<div align="left">
+  <div style="display: flex; align-items: flex-start;">
+   
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoryann&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+
+  </div>
+</div>
