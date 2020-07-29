@@ -9,6 +9,9 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gregoryann.gregoryann)
 
 
+<img src="https://github.com/gregoryann/gregoryann/blob/master/Intro_.gif" width="920" height="300" />
+
+
 
 ## 🔧 Languages & Technologies & Tools   
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -91,3 +94,5 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 
 
 ```
+
+![dino](https://user-images.githubusercontent.com/32854050/88582171-912ea080-d04e-11ea-9ecf-e679b5102d9e.gif)
