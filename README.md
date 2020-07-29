@@ -7,3 +7,19 @@
 [![Youtube Badge](https://img.shields.io/badge/-Freecodecamp-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gregoryann.gregoryann)
+
+
+
+## 🔧 Languages & Technologies & Tools   
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![sharp](https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=flat-square&logo=c%20sharp&logoColor=white")
+[![Vue](https://img.shields.io/badge/JavaScript_framework-Vue-success?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Learning-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+[![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
+[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
