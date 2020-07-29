@@ -40,7 +40,7 @@
 
 
 ## &#x1f4c8; GitHub Stats <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2> 
-<img src="https://github.com/gregoryann/gregoryann/blob/master/Sorceress_Sprite_().gif" width="50"></h2> 
+<img src="https://github.com/gregoryann/gregoryann/blob/master/Sorceress_Sprite_().gif" width="30"></h2> 
 
 <div align="left">
   <div style="display: flex; align-items: flex-start;">
