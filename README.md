@@ -57,31 +57,5 @@
 
 
  
-### A little more about me..
-
-```css
-#gregoryann { 
-  position: junior;
-  code: Javascript;
-  tools: React;
-  css: bootstrap;
-  backEnd: php;
-  devOps: AWS;
-  databases: MySql;
-  misc: Firebase;
-  background: Tinker Resolver 🔨; 
-  currentProject: "Personal website and this README";
-  funFact: "There are two ways to write error-free programs; only the third one works";
-}
-
-Fun fact   
-// Which came first: the chicken or the egg?
-
-console.log(["🥚", "🐣", "🐥", "🐔"].sort())
-
->>> ["🐔", "🐣", "🐥", "🥚"];
-```
-
-
 
 ![dino](https://user-images.githubusercontent.com/32854050/88582171-912ea080-d04e-11ea-9ecf-e679b5102d9e.gif)
