@@ -71,12 +71,9 @@
   devOps: AWS;
   databases: MySql;
   misc: Firebase;
-  height: 178cm; 
-  display: boy; 
   background: Tinker Resolver 🔨; 
   currentProject: "Personal website and this README";
   funFact: "There are two ways to write error-free programs; only the third one works";
-  color: green;
 }
 ```
 
