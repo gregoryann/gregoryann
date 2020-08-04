@@ -11,7 +11,7 @@
 
 
 
-## 🔧 Languages & Technologies & Tools   
+## 🔧 Languages & Technologies & Tools   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -32,15 +32,6 @@
 [![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
 [![Youtube Badge](https://img.shields.io/badge/-Freecodecamp-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-
-
-
-
-
-## &#x1f4c8; GitHub Stats <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> 
-
-
 <div align="left">
   <div style="display: flex; align-items: flex-start;">
    
