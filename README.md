@@ -32,7 +32,6 @@
 [![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
 [![Youtube Badge](https://img.shields.io/badge/-Freecodecamp-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 <div align="left">
   <div style="display: flex; align-items: flex-start;">
    
