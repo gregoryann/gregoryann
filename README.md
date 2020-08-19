@@ -2,8 +2,6 @@
  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gregoryann11@gmail.com)](mailto:gregoryann11@gmail.com)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gregoryann.gregoryann)
 
 
